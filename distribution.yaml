@@ -1,4 +1,4 @@
-name: volcanic-source-packet
+name: source-packet
 version: 1.0.0
 description: "Public-safe Hermes profile for turning links, posts, papers, docs, repos, and claims into cited source packets."
 hermes_requires: ">=0.15.0"
